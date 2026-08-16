@@ -16,10 +16,10 @@ client = genai.Client(api_key=api_key)
 # טעינת קובץ המדיניות החיצוני
 def load_policy():
     try:
-        with open("meta_policy.txt", "r", encoding="utf-8") as f:
+        with open("fb_policy.txt", "r", encoding="utf-8") as f:
             return f.read()
     except FileNotFoundError:
-        return "שגיאה: קובץ המדיניות meta_policy.txt לא נמצא."
+        return "שגיאה: קובץ המדיניות fb_policy.txt לא נמצא."
 
 FB_POLICY_CONTEXT = load_policy()
 
