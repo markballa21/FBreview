@@ -2,10 +2,15 @@ import streamlit as st
 from google import genai
 import trafilatura
 
-# Fetch the secret API key
-api_key = st.secrets["GEMINI_API_KEY"]
+# קריאת המפתח מ-Secrets
+api_key = st.secrets.get("GEMINI_API_KEY")
 
-# Initialize the Gemini client
+# בדיקה שהמפתח אכן נקרא
+if not api_key:
+    st.error("Missing GEMINI_API_KEY in secrets!")
+    st.stop()
+
+# אתחול הלקוח עם המפתח
 client = genai.Client(api_key=api_key)
 
 # טעינת קובץ המדיניות החיצוני
