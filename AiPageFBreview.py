@@ -2,9 +2,11 @@ import streamlit as st
 from google import genai
 import trafilatura
 
-# הגדרת ה-Client של Gemini
-# מומלץ להגדיר את GEMINI_API_KEY במשתני סביבה או ב-secrets של Streamlit
-client = genai.Client(api_key="AQ.Ab8RN6IR_wGVphMmu9ryKwJt58f4ZdK3qis7ScDwXJnJ3k0pKg")
+# Fetch the secret API key
+api_key = st.secrets["GEMINI_API_KEY"]
+
+# Initialize the Gemini client
+client = genai.Client(api_key=api_key)
 
 # טעינת קובץ המדיניות החיצוני
 def load_policy():
