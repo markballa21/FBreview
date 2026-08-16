@@ -1,0 +1,29 @@
+Meta Advertising Standards & Landing Page Policies:
+
+1. Personal Attributes:
+- Ads and landing pages must not contain content that asserts or implies personal attributes (race, ethnic origin, religion, beliefs, age, sexual orientation, gender identity, disability, medical/physical condition, financial status, criminal record).
+- Avoid accusatory phrases like "Are you suffering from...?", "Tired of being overweight?", "Are you in debt?".
+
+2. Unrealistic Outcomes & Misleading Claims:
+- Prohibited: Promising specific health, weight loss, or financial results within a fixed timeframe (e.g., "Lose 10kg in 14 days", "Earn $5,000 this week from home").
+- Mandatory: Claims must be realistic, substantiated, and accompanied by proper disclaimers where relevant.
+
+3. Health, Weight Loss & Personal Appearance:
+- Prohibited: Generating negative self-perception or body dissatisfaction to promote diet or weight loss products.
+- Prohibited: Before-and-after imagery or descriptions showing radical, unexpected, or unrealistic transformations.
+
+4. Financial Products & Multi-Level Marketing (MLM):
+- Prohibited: Promoting get-rich-quick schemes, pyramid schemes, or unverified crypto/trading schemes.
+- Ads promoting financial services, loans, or investments must disclose terms, fees, risks, and interest rates clearly on the landing page.
+
+5. Deceptive Practices & Scams:
+- Landing pages must not use fake countdown timers, false urgency ("Only 2 seats left forever"), or fake celebrity endorsements/testimonials.
+
+6. Landing Page Quality & Functionality:
+- The landing page must directly match the value proposition presented in the ad.
+- The page must be fully functional (no broken links, 404 errors, or broken media).
+- Avoid excessive pop-ups, disruptive auto-playing audio/video, or mechanisms preventing the user from leaving the page.
+- Clear contact information, privacy policy, and terms of service must be accessible.
+
+7. Prohibited & Restricted Content:
+- Strict prohibition on adult content/products, weapons, illegal substances, tobacco/e-cigarettes, and hate speech.
